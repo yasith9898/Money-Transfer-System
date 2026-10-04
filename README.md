@@ -1,4 +1,3 @@
-<img width="960" height="401" alt="all curensies page" src="https://github.com/user-attachments/assets/6aedc828-dcb5-46ad-85e8-cc212f52db54" /><p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -58,6 +57,7 @@ user interfaces
 <img width="960" height="443" alt="acounts transations part 2" src="https://github.com/user-attachments/assets/db08e73c-dd2e-4dab-bf88-c9f80cac308b" />
 <img width="960" height="452" alt="Acount Statment" src="https://github.com/user-attachments/assets/631a8fea-34fc-4e29-9b53-d09939127d91" />
 <img width="960" height="404" alt="Acount details" src="https://github.com/user-attachments/assets/6d3dda4a-5144-4b83-bbb1-0b5a44809178" />
+<img width="960" height="401" alt="all curensies page" src="https://github.com/user-attachments/assets/6aedc828-dcb5-46ad-85e8-cc212f52db54" /><p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 
 
