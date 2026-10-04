@@ -1,0 +1,1 @@
+id, from_account_id, to_account_id, currency_id, amount, office_commission, company_commission, type, status, notes, transaction_date, created_at, updated_at, turkey_commission
